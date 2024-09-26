@@ -3,8 +3,6 @@
 ## Overview
 This Python code implements a visualization for the Bacon-Shor code. It provides an interactive grid where users can select qubit pairs for measurement, and visualizes the associated stabilizers and measurements.
 
-Certainly! Here’s a section you can add to your README to explain the two files:
-
 ## Code Files Overview
 
 ### 1. `BaconShorViz_Initial.py`
